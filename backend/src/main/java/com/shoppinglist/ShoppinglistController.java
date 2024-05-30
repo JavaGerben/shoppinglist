@@ -16,7 +16,7 @@ public class ShoppinglistController {
         return List.of(
                 "Boter",
                 "Kaas",
-                "Eieren"
+                "Spek"
         );
     }
 }
