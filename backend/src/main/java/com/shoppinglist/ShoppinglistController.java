@@ -18,5 +18,6 @@ public class ShoppinglistController {
                 "Kaas",
                 "Spek"
         );
+        //just a comment so i can commit again
     }
 }
