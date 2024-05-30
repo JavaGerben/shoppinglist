@@ -9,6 +9,8 @@ const App = () => {
     );
   });
 
+  //this is a comment
+
   return (
     <ul>
       {items.map((item) => (
