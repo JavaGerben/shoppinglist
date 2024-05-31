@@ -17,7 +17,10 @@ public class ShoppinglistController {
                 "Boter",
                 "Kaas",
                 "Spek",
-                "kletskoppen"
+                "kletskoppen",
+                "scharreleieren",
+                "biologische sinaasappelsap"
         );
+        //just a comment so i can commit again
     }
 }
